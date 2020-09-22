@@ -1,3 +1,5 @@
+using System;
+
 namespace WebApiQueryBuilder
 {
     public class OrderToken

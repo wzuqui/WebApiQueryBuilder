@@ -1,0 +1,5 @@
+image:
+  file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - muhammad-sammy.csharp@1.23.2:c+VpGcfpxuc/M3ihERXCxA==
